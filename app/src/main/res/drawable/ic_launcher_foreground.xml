@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Battery body -->
+    <path
+        android:fillColor="#00BCD4"
+        android:pathData="M30,38h42c2.2,0 4,1.8 4,4v28c0,2.2 -1.8,4 -4,4H30c-2.2,0 -4,-1.8 -4,-4V42c0,-2.2 1.8,-4 4,-4z"/>
+    <!-- Battery tip -->
+    <path
+        android:fillColor="#00BCD4"
+        android:pathData="M72,48h6c1.1,0 2,0.9 2,2v12c0,1.1 -0.9,2 -2,2h-6V48z"/>
+    <!-- Inner fill representing charge -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M34,44h34v24H34z"/>
+    <!-- Charge level indicator -->
+    <path
+        android:fillColor="#00BCD4"
+        android:pathData="M36,46h20v20H36z"/>
+</vector>
