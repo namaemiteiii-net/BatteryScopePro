@@ -36,7 +36,19 @@ Android スマートフォンのバッテリー状態を詳細に計測・分析
 
 ## スクリーンショット
 
-（公開時に追加予定）
+## スクリーンショット
+
+### 1. ホーム画面
+![BatteryScope Pro - ホーム画面](screenshots/home.png)
+
+### 2. リアルタイム計測
+![BatteryScope Pro - リアルタイム計測](screenshots/realtime.png)
+
+### 3. 履歴・容量推定
+![BatteryScope Pro - 履歴・容量推定](screenshots/history.png)
+
+### 4. 端末・設定
+![BatteryScope Pro - 端末・設定](screenshots/device.jpg)
 
 ---
 
